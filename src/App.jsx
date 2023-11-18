@@ -1,7 +1,6 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Parallax } from "react-parallax";
-import React, { useState } from "react";
+import React from "react";
 import img1 from "./assets/vecteezy_liquid-gradient-color-background-fluid-gradient_677949/Abstract.jpg";
 import Main from "./Main";
 import Header from "./Header";

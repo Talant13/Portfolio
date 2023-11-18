@@ -1,6 +1,7 @@
 import React from "react";
 import img1 from "./assets/movieList.png";
 import img2 from "./assets/tictactoe.png";
+import img3 from "./assets/portfolio.png";
 import { VscLiveShare } from "react-icons/vsc";
 import { FaGithub } from "react-icons/fa";
 
@@ -45,7 +46,7 @@ const Projects = () => {
             <a href="https://github.com/Talant13/MovieApp">Github</a>
           </span>
           <div class="cover">
-            <img src={img1} alt="project" />
+            <img src={img3} alt="project" />
           </div>
         </div>
         <div class="book">
